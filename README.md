@@ -13,6 +13,8 @@ TL;DR: Give txt file with FQDNs → get a spreadsheet with resolved IPs → move
 - [Openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 - [DNSPython](https://pypi.org/project/dnspython/)
 
+***
+
 ### Installation 💿
 1. Clone This Repo:
 ```git clone https://github.com/Hot-Dad69/FQDN2IP.git```
@@ -22,6 +24,8 @@ TL;DR: Give txt file with FQDNs → get a spreadsheet with resolved IPs → move
 
 3. Install Python Dependencies
 ```python -m pip install pandas openpyxl dnspython```
+
+***
 
 ### Usage 👩‍💻
 1. Create an input file with all FQDN's, with one domain per line
